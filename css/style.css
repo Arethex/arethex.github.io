@@ -54,7 +54,7 @@ li a:hover {
 }
 #cabecera {
     min-height: 400px;
-    background: url('img/cabecera.jpg') 0 -300px;
+    background: url('../img/cabecera.jpg') 0 -300px;
     text-align: center;
     color: #fff;
 }
@@ -150,5 +150,8 @@ form {
 }
 .tr-juegos {
     position: 
+}
+li {
+    list-style-type: none;
 }
 
