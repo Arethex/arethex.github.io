@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+}
+.imgj { 
+    width: 30%; float: left;
+}
+.detalle {
+    width: 65%; 
+    float: left; 
+    padding-left: 5%;
+}
+p {
+    max-width: 100%;
+}
+.imgd {
+    width: 100%; 
+    display: table;
+}
+.imgk {
+    width: 20%; 
+    padding: 2.5%; 
+    float: left;
+}
+.logoimg {
+    max-width: 100%;
+    padding-left: 5%;
+}
